@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "控制台MP3播放器", "控制台MP3播放器\控制台MP3播放器.vcproj", "{B907C882-918B-4D3A-AAEE-4669FE3BD497}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC下MP3播放器", "MFC下MP3播放器\MFC下MP3播放器.vcproj", "{9A498DC3-80F6-43EF-8323-5C5C2B3645DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B907C882-918B-4D3A-AAEE-4669FE3BD497}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B907C882-918B-4D3A-AAEE-4669FE3BD497}.Debug|Win32.Build.0 = Debug|Win32
+		{B907C882-918B-4D3A-AAEE-4669FE3BD497}.Release|Win32.ActiveCfg = Release|Win32
+		{B907C882-918B-4D3A-AAEE-4669FE3BD497}.Release|Win32.Build.0 = Release|Win32
+		{9A498DC3-80F6-43EF-8323-5C5C2B3645DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A498DC3-80F6-43EF-8323-5C5C2B3645DC}.Debug|Win32.Build.0 = Debug|Win32
+		{9A498DC3-80F6-43EF-8323-5C5C2B3645DC}.Release|Win32.ActiveCfg = Release|Win32
+		{9A498DC3-80F6-43EF-8323-5C5C2B3645DC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
